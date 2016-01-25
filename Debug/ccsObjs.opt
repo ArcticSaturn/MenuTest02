@@ -1,0 +1,1 @@
+"./board.obj" "./main.obj" "./menu.obj" "./ring_buffer.obj" "./timer.obj" "./tlv.obj" "./uart.obj" "./watchdog.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
